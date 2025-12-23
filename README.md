@@ -7,7 +7,7 @@
 </p>
 
 ## 📌 About Me
-- 🔭 I’m currently working on [Telkomedika Online Reservation](https://github.com/yudhasw/Telkomedika-Online-Reservation)
+- 🔭 I’m currently working on [Telkomedika Online Reservation](https://github.com/yudhasw/Telkomedika-Online-Reservation) project.
 
 
 ## 📊 GitHub Stats & Trophies
