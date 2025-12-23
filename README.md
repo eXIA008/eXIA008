@@ -9,8 +9,9 @@
 ## About Me
 Currently pursuing my Bachelor in Informatics. I'm into doing my side projects, like building website for my own purpose and making games mods. Highly interested in Web Development Technologies.
 
-- 🔭 I’m currently working on [Telkomedika Online Reservation](https://github.com/yudhasw/Telkomedika-Online-Reservation)
-
+#### 🔭 I’m currently working on 
+- [Telkomedika Online Reservation](https://github.com/yudhasw/Telkomedika-Online-Reservation)
+- My personal website (ReactJS)
 
 ## Languages & Tools
 
@@ -20,4 +21,5 @@ Currently pursuing my Bachelor in Informatics. I'm into doing my side projects, 
 <!-- <p align="left"> <a href="https://github.com/eXIA008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eXIA008" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/daisaqha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daisaqha" height="30" width="40" /></a>
 <a href="https://twitter.com/isaaqnewton8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isaaqnewton8" height="30" width="40" /></a></p>
+<a href="https://instagram.com/daisaq_ha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daisaq_ha" height="30" width="40" /></a>
 
