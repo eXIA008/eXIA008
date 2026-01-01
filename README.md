@@ -10,7 +10,6 @@
 Currently pursuing my Bachelor in Informatics. I'm into doing my side projects, like building website for my own purpose and making game mods. Highly interested in Web Development Technologies.
 
 #### 🔭 I’m currently working on 
-- [Telkomedika Online Reservation](https://github.com/yudhasw/Telkomedika-Online-Reservation)
 - My personal website (ReactJS)
 
 ## Languages & Tools
