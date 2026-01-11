@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Daisaq</h1>
-<!-- <h3 align="center">A passionate fullstack developer</h3> -->
+<h3 align="center">An amateur fullstack developer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=eXIA008">
@@ -32,7 +32,7 @@ Currently pursuing my Bachelor in Informatics. I'm into doing my side projects, 
 ## Connect With me
 <p align="left">
 <!--<a href="https://github.com/eXIA008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eXIA008" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/daisaqha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daisaqha" height="30" width="40" /></a>
-<a href="https://twitter.com/isaaqnewton8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isaaqnewton8" height="30" width="40" /></a>
-<a href="https://instagram.com/daisaq_ha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daisaq_ha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daisaqha" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="daisaqha" height="30" width="40" /></a>
+<a href="mailto:daisaq.h@gmail.com" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" alt="isaaqnewton8" height="30" width="40" /></a>
+<a href="https://instagram.com/daisaq_ha" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" alt="daisaq_ha" height="30" width="40" /></a>
 </p>
