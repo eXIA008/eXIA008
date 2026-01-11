@@ -29,7 +29,7 @@ Currently pursuing my Bachelor in Informatics. I'm into doing my side projects, 
 <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-## Connect With me
+## Connect with Me
 <p align="left">
 <!--<a href="https://github.com/eXIA008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eXIA008" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/daisaqha" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="daisaqha" height="30" width="40" /></a>
