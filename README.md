@@ -18,7 +18,8 @@ Currently pursuing my Bachelor in Informatics. I'm into doing my side projects, 
   <a href="https://devdocs.io/cpp/" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="35" height="35"/> </a>
   <a href="https://www.python.org/doc/" target="_blank"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="35" height="35"/> </a> 
   <a href="https://devdocs.io/go/" target="_blank"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="35" height="35"/> </a> 
-  <a href="https://www.w3schools.com/java/java_ref_reference.asp" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="35" height="35"/> </a> 
+  <a href="https://www.w3schools.com/java/java_ref_reference.asp" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="35" height="35"/> </a>
+  <a href="https://www.w3schools.com/java/java_ref_reference.asp" target="_blank"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="35" height="35"/> </a> 
   <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="35" height="35"/> </a> 
   <a href="https://docs.jupyter.org/en/latest/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="35" height="35"/> </a>
   <a href="https://devdocs.io/flask/" target="_blank"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="35" height="35"/> </a>
