@@ -12,9 +12,11 @@ Currently pursuing my Bachelor in Informatics. I'm into doing my side projects, 
 #### 🔭 I’m currently working on 
 - My portfolio website (React+Vite)
 
-## Languages & Tools
 
-<p align="left">
+
+<!--## Languages & Tools
+
+ <p align="left"> --
   <a href="https://devdocs.io/cpp/" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="35" height="35"/> </a>
   <a href="https://www.python.org/doc/" target="_blank"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="35" height="35"/> </a> 
   <a href="https://devdocs.io/go/" target="_blank"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="35" height="35"/> </a> 
@@ -37,7 +39,7 @@ Currently pursuing my Bachelor in Informatics. I'm into doing my side projects, 
 
 ## Connect with Me
 <p align="left">
-<!--<a href="https://github.com/eXIA008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eXIA008" height="30" width="40" /></a> -->
+<a href="https://github.com/eXIA008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eXIA008" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daisaqha" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="daisaqha" height="35" width="35" /></a>
 <a href="mailto:daisaq.h@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="isaaqnewton8" height="35" width="35" /></a>
 <a href="https://instagram.com/daisaq_ha" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="daisaq_ha" height="35" width="35" /></a>
