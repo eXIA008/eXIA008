@@ -7,12 +7,10 @@
 </p>
 
 ## About Me
-Currently pursuing my Bachelor in Informatics. I'm into doing my side projects, like building website for my own purpose and making game mods. Highly interested in Web Development Technologies.
+Currently pursuing my Bachelor in Informatics. I'm into doing random projects that suddenly comes to my mind. Highly interested in Web Development Technologies and AI things.
 
 #### 🔭 I’m currently working on 
 - My portfolio website (React+Vite)
-
-
 
 <!--## Languages & Tools
 
