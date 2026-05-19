@@ -2,8 +2,7 @@
 <h3 align="center">An amateur fullstack developer</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=eXIA008">
-  </a>
+  <a href="https://komarev.com/ghpvc/?username=eXIA008"></a>
 </p>
 
 ## About Me
@@ -11,6 +10,8 @@ Currently pursuing my Bachelor in Informatics. I'm into doing random projects th
 
 #### 🔭 I’m currently working on 
 - My portfolio website (React+Vite)
+- [Project Reimbursement App](https://github.com/eXIA008/Digi-Money-Manager)
+- [Readfolio PDF Translate](https://github.com/eXIA008/macacino)
 
 <!--## Languages & Tools
 
