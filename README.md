@@ -10,7 +10,7 @@ Currently pursuing my Bachelor in Informatics. I'm into doing random projects th
 
 #### 🔭 I’m currently working on 
 - My portfolio website (React+Vite)
-- [Project Reimbursement App](https://github.com/eXIA008/Digi-Money-Manager)
+- Project Reimbursement App
 
 <!--## Languages & Tools
 
