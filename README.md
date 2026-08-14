@@ -1,5 +1,4 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Daisaq</h1>
-<!-- <h3 align="center">An amateur fullstack developer</h3> -->
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=eXIA008"></a>
@@ -10,7 +9,8 @@ Currently pursuing my Bachelor in Informatics. I'm into doing random projects th
 
 #### 🔭 I’m currently working on 
 - My Intern Project
-- 👀
+- Something
+- My Life....i guess...
 
 <!--## Languages & Tools
 
