@@ -9,8 +9,8 @@
 Currently pursuing my Bachelor in Informatics. I'm into doing random projects that suddenly comes to my mind. Highly interested in Web Development Technologies and AI things.
 
 #### 🔭 I’m currently working on 
-- My portfolio website (React+Vite)
-- Project Reimbursement App
+- My Intern Project
+- 👀
 
 <!--## Languages & Tools
 
